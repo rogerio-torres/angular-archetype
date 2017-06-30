@@ -1,0 +1,22 @@
+{
+  "name": "angular-archetype",
+  "description": "Archetype for frontend projects with Angular 1, Gulp and Bower",
+  "main": "index.html",
+  "authors": [
+    "Rogério Rivera Torres Filho"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "bootstrap": "^3.3.7",
+    "angular-ui-router": "^1.0.5",
+    "angular-resource": "^1.6.4"
+  }
+}

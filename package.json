@@ -1,0 +1,26 @@
+{
+  "name": "angular-archetype",
+  "version": "1.0.0",
+  "description": "Archetype for frontend projects with Angular 1, Gulp and Bower",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bi-extractor"
+  ],
+  "author": "Rogério Rivera Torres Filho",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "cors": "^2.8.3",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-inject": "^4.2.0",
+    "gulp-serve": "^1.4.0",
+    "wiredep": "^4.0.0"
+  },
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
